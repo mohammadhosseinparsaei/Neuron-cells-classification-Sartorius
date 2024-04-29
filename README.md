@@ -9,7 +9,6 @@ In this project, I tried to classify different neurons cells named `shsy5y`, `as
 - opencv 3.4.2
 - scikit-learn 0.24.2
 - tensorflow 2.1.0
-- keras 2.3.1
 - tqdm 4.64.1
 - matplotlib 3.3.4
 
