@@ -2,6 +2,10 @@
 
 In this project, I tried to classify different neurons cells named `shsy5y`, `astro` and `cort` with CNN deep learning. The data used in this learning consists of the images in the `train` file and the csv file named `train` that was downloaded from [here](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/data). The code is written in a Jupyter file in a very simple way. In addition, the weights of the trained model have also been uploaded in this repository.
 
+## Data Citation
+
+- Addison Howard, Ashley Chow, CorporateResearchSartorius, Maria Ca, Phil Culliton, Tim Jackson. [Sartorius - Cell Instance Segmentation](https://kaggle.com/competitions/sartorius-cell-instance-segmentation). Kaggle (2021).
+
 ## Tools and Libraries Used
 - Jupyter
 - numpy 1.19.2
